@@ -1,0 +1,7 @@
+﻿# Git ignore para o projeto do livro
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
